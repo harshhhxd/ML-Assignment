@@ -38,10 +38,10 @@ The project is divided into the following tasks:
 ## Installation and Setup
 To set up the project, follow these steps:
 
-1. **Clone the repository**:
+1. **Clone the repository**: https://github.com/harshhhxd/ML-Assignment
    ```bash
    Create a virtual environment:
 2. install your dependencies and libraries
-   python -m venv .venv
-source .venv/bin/activate  # On Windows, use `.venv\Scripts\activate`
-pip install -r requirements.txt
+   **python -m venv .venv
+source .venv/bin/activate**  # On Windows, use `.venv\Scripts\activate`
+**pip install -r requirements.txt**
